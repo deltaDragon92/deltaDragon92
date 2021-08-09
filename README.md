@@ -7,7 +7,7 @@ I'm also a high school teacher of "electronics and electrical technologies" subj
 - 🌱 I’m currently learning Python, Java, C++ and high level programming stuff, which is new for my background, and i do that by realizing for small companies
 little projects, i'm HIGHLY opened to hint for my code (correctness, best performances or simply good writing which i love to cure).
 - 💞️ I’m looking to collaborate on the creation of drivers and firmware or simply to improve existent project.
-- For the future: i would love to approach crypto  and AI software development i also would be more expert of cyber - security.
+- For the future: i would love to approach crypto  and AI software development i also would be more expert of cyber security.
 - 📫 How to reach me: andrea.piccini23@gmail.com
 
 <!---
